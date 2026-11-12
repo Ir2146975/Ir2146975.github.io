@@ -9,3 +9,5 @@ I like to go out side with my family, i also enjoy video games, and my favorite 
 [Notebook](notebook.md)
 
 [Home](index.md)
+
+[EMS Station](project-1-ems-station.md)
