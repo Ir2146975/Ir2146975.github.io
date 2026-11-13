@@ -2,7 +2,7 @@
 
 ## Projects
 
-- Project 1: Description
+- [EMS Station](project-1-ems-station.md): I created a train detector that close a door when the train gets cloes
 
 - Project 2: Description
 
