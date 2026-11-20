@@ -20,7 +20,7 @@ This is the humming bird where the possision servos and lights are conected the 
 
 
 # My finale video 
-This will send you to a video of the whole progect coming together to make a detection railroad system
+This is a video of the whole progect coming together to make a detection railroad system
 
 [Railroad video](https://github.com/user-attachments/assets/9d68b166-c3f0-423d-8be2-96cbff7736e2)
 
