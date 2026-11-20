@@ -1,11 +1,11 @@
 # Project 2: Automated Railroad Crossing
 
-In this project i learned how to create a list, and how i can add to the list with a distance servo. I mad the light flash if the train was sensed as well as a sound. I also had to make the servo stay up or go down when the train was sensed.
+In this project I learned that we can make a detection system that activates a position servo and lights and added information to a list
 
 [Railroad Link](https://snap.berkeley.edu/snap/snap.html#present:Username=lvhs11&ProjectName=U2L2R%20Railroad%20Crossing)
 # Challenges I Struggled on 
 
-At the start I really struggled creating he list and just connecting the list to the one I wanted. I also again struggled with the servo so I need to learn my angles. 
+At the start I really struggled creating he list and just connecting the list to the one I wanted. I also again struggled with the servo so I need to learn my angles 
 
 
 # Full code
